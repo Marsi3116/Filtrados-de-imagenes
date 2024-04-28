@@ -19,6 +19,7 @@ Este proyecto aplica técnicas de filtrado en el procesamiento de imágenes digi
    - Abre la terminal integrada.
    - Navega a la carpeta del proyecto utilizando `cd path_del_proyecto`. El path_del_proyecto viene a ser la dirección o a ruta en donde se encuentra la carpeta del proyecto
    - Ejecuta `pip install -r requirements.txt` para instalar las dependencias necesarias.
+   - Para confirmar, ejecutar `pip install streamlit` , `pip install opencv-python`
 
 3. **Ejecución del Programa:**
    - Ejecuta `python Proyecto.py` en la terminal.
