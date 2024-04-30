@@ -28,6 +28,7 @@ def pagina_sobre_el_programa():
                  -Marsi Valeria Figueroa Larragán (U202220990)
                  -Rafael Tomas Chui Sanchez (U201925837)
                  -Davis Jefferson Rojas Torres (U202120763)
+                 -Rosales Espinoza, Luis Steffano (U202120446)
         """)
 
 
